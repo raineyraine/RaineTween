@@ -1,3 +1,4 @@
+if game:GetService("RunService"):IsClient() then error("Server Module requried on client") end
 --- Services
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
