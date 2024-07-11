@@ -9,4 +9,4 @@ Examples of such vurnabilites are exploiters possibly being able to mess with th
 | 1.0.0   | :white_check_mark: |
 
 ## Reporting a Vulnerability
-You may report a security issue in [/security/advisories/]([url](https://github.com/raineyraine/RaineTween/security/advisories)).
+You may report a security issue in [/security/advisories/](https://github.com/raineyraine/RaineTween/security/advisories).
